@@ -1,6 +1,6 @@
 package CalcoloCosti;
 
-public class Calcolatore {
+public class Avvio {
 	
 	public static void main() {
 		
