@@ -23,5 +23,6 @@ public static void main(String[] args) {
 		System.out.println("Usage: Avvio.java [BAC] + [Number of performed activites] + [Money spent] "
 				+ "+ [Expected number of performed activites] + [Expected money spent]");
 	}
-
+  }
 }
+
